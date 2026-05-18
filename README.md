@@ -7,9 +7,6 @@ To develop an image classification model using transfer learning with VGG19 arch
 To classify chip images as defect or notdefect using a pretrained VGG19 model with transfer learning.
 
 
-## Neural Network Model
-Include the neural network model diagram.
-
 ## DESIGN STEPS
 Step 1:
 Load the chip image dataset from Google Drive and organize it into train and test folders.
